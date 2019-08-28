@@ -3,6 +3,7 @@
 Udacity Scholarship on Secure and Private AI 
 Facebook Challenge
 
+## Useful Resources
 
 http://theconversation.com/explainer-what-is-differential-privacy-and-how-can-it-protect-your-data-90686
 
@@ -13,9 +14,6 @@ https://research.neustar.biz/2014/09/08/differential-privacy-the-basics/
 https://medium.com/georgian-impact-blog/a-brief-introduction-to-differential-privacy-eacf8722283b
 
 https://medium.com/@programmersjournal/what-is-differential-privacy-38cb90aa0824
-
-
-
 
 https://privacytools.seas.harvard.edu/differential-privacy
 
